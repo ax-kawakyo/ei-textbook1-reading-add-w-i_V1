@@ -1,0 +1,71 @@
+No	unit	文番号	単語	品詞	意味1(文脈)	意味2(代表義)	意味3(その他)	分類
+1	3A	LR1-1	look	v	見る			
+2	3A	LR1-1	this	prn	この			
+3	3A	LR1-1	picture	n	写真			
+4	3A	LR1-2	I	prn	私は			
+5	3A	LR1-2	can	v	〜できる	(否定形)cannot		
+6	3A	LR1-2	walk	v	歩く			
+7	3A	LR1-3	jump	v	ジャンプする			
+8	3A	LR1-4	swim	v	泳ぐ			
+9	3A	LR1-4	well	adv	上手に			
+10	3A	LR1-5	fly	v	飛ぶ			
+11	3A	LR1-5	but	conj	しかし			
+12	3A	LR1-5	stay	v	留まる、滞在する			
+13	3A	LR1-5	underwater	adv	水中で			
+14	3A	LR1-5	for	prep	〜の間			
+15	3A	LR1-5	or	conj	または			
+16	3A	LR1-5	minute	n	分			
+17	3A	LR1-6	do	v	〜する、(否定文を作る)	(短縮形)don't		
+18	3A	LR1-6	like	v	〜を好む			
+19	3A	LR1-6	carrot	n	ニンジン			
+20	3A	LR1-7	eat	v	〜を食べる			
+21	3A	LR1-7	grass	n	草			
+22	3A	LR1-8	fish	n	魚			
+23	3A	LR1-10	what	prn	何			
+24	3A	LR1-10	be	v	〜です	(一人称単数現在)am		
+25	3A	LR1-11	turn	v	〜を回す			
+26	3A	LR1-11	book	n	本			
+27	3A	LR1-11	around	adv	周りに			
+28	3A	AG1-1	I	prn	私は	(短縮形)I'm		
+29	3A	AG1-1	be	v	〜です	(一人称単数現在)am		
+30	3A	AG1-3	a	art	一人の、一つの			
+31	3A	AG1-3	new	adj	新しい			
+32	3A	AG1-3	student	n	生徒			
+33	3A	AG1-4	you	prn	あなたは			
+34	3A	AG1-4	be	v	〜です	(二人称/複数現在)are		
+35	3A	AG1-5	yes	adv	はい			
+36	3A	AG1-5	no	adv	いいえ			
+37	3A	AG1-7	not	adv	〜ない			
+38	3A	AG1-9	big	adj	大きい、大の			
+39	3A	AG1-9	soccer	n	サッカー			
+40	3A	AG1-9	fan	n	ファン			
+41	3A	AG1-11	music	n	音楽			
+42	3A	AG1-12	and	conj	〜と			
+43	3A	AG1-12	sport	n	スポーツ			
+44	3A	AG1-13	play	v	〜を演奏する			
+45	3A	AG1-13	trumpet	n	トランペット			
+46	3A	AG1-14	do	v	〜しますか？	(疑問文を作る)	(否定形)do not, don't	
+47	3A	AG1-14	piano	n	ピアノ			
+48	3A	AG1-18	of	prep	〜の			
+49	3A	AG1-18	course	n	進路、成り行き			
+50	3A	AG1-19	dance	v	踊る	(動名詞)dancing		
+51	3A	AG1-19	too	adv	〜もまた			
+52	3A	AG1-20	can	v	〜できる	(否定形)cannot, can't		
+53	3A	AG1-20	swim	v	泳ぐ			
+54	3A	AG1-20	drum	n	ドラム			
+55	3A	YC-1	you	prn	あなたは			
+56	3A	YC-1	like	v	〜が好き			
+57	3A	YC-1	listen	v	聞く	(動名詞)listening		
+58	3A	YC-1	to	prep	〜を			
+59	3A	YC-1	music	n	音楽			
+60	3A	YC-1	right	adv	ですよね？	正しい		
+61	3A	YC-2	what	prn	どんな			
+62	3A	YC-2	kind	n	種類			
+63	3A	YC-2	of	prep	〜の			
+64	3A	YC-2	do	v	〜しますか？	(疑問文を作る)		
+65	3A	YC-3	I	prn	私は			
+66	3A	YC-3	classical	adj	クラシックの			
+67	3A	YC-4	want	v	〜したいと思う			
+68	3A	YC-4	be	v	〜になる			
+69	3A	YC-4	a	art	一人の			
+70	3A	YC-4	pianist	n	ピアニスト			
